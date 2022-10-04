@@ -2,11 +2,6 @@
 #                                           #
 # Author:     Dustin Berry                  #
 # Date:       18 August 2020                #
-# Subject:    Final Project                 #
-# Class:      BDAT 640                      #
-# Section:    01W                           #         
-# Instructor: Kubrom Teka                   #
-# File Name:  FinalProject_Berry_Dustin.R   #
 #                                           # 
 #############################################
 
